@@ -1,0 +1,228 @@
+﻿Id,Condition,Samples,Duration,WithinScenarioOrder,WithinIDOrder,Distance_Driven,EGOlocAtTermination,collision,NavigationError,ExtreemBrakingEvents,Mental Demand,Physical Demand,Temporal Demand,Effort,Frustration,Performance (reverse),right_order,Age,Gender,status,license years,experience computer games,accident non-keeping distance,number of times,technologies life easier,understand technology,enjoy understanding technology,experience simulator
+A1_012594,Allocentric,4677,277,2,11,1038.695827,end Right turn into the parking lot,0,0,13,2,2,2,2,1,2,1,24,Male,תואר ראשון - שנה שניה,7,לא,לא,0,5,4,4,לא
+A1_018183,Allocentric,4473,242,2,11,1049.6378,end Right turn into the parking lot,0,0,13,2,2,4,1,1,1,1,24,Male,תואר ראשון - שנה שניה,5,כן,לא,0,5,4,5,לא
+A1_036689,Allocentric,4397,239,2,11,1025.427112,end Right turn into the parking lot,0,0,13,1,1,3,2,3,1,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,3,5,לא
+A1_054383,Allocentric,4086,221,2,11,1022.873396,end Right turn into the parking lot,0,0,15,2,1,4,1,1,4,1,27,Male,תואר ראשון - שנה שלישית,10,כן מעט,לא,0,5,5,5,לא
+A1_060019,Allocentric,4450,238,2,11,1028.922359,end Right turn into the parking lot,0,0,19,1,1,2,1,1,1,1,25,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,5,4,5,לא
+A1_066685,Allocentric,2115,109,2,11,600.7070546,start Left turn on a curve 1,1,0,5,5,3,2,5,6,8,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,3,2,3,לא
+A1_084788,Allocentric,4642,253,2,11,1032.361965,end Right turn into the parking lot,0,0,18,6,6,6,6,1,2,1,23,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,4,4,לא
+A1_090851,Allocentric,3903,210,2,15,1041.416972,end Right turn into the parking lot,2,0,15,1,2,3,2,1,1,1,26,Male,תואר ראשון - שנה שניה,9,אין ניסיון,לא,0,5,4,5,לא
+A1_120953,Allocentric,4802,249,2,10,1065.363292,end Right turn into the parking lot,1,0,17,4,6,6,6,3,1,1,25,Male,תואר ראשון - שנה שניה,6,לא,לא,0,3,3,3,לא
+A1_186301,Allocentric,4022.926333,239,2,15,985.6122089,start Left turn at an intersection,2,1,9,6,5,6,4,5,5,1,25.8,Male,תואר ראשון - שנה שניה,7,כן.,לא,0,5,5,5,לא
+A1_198902,Allocentric,2305,118,2,11,592.5353024,start Left turn on a curve 1,1,0,5,8,8,7,8,6,5,1,23,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,4,4,לא
+A1_210794,Allocentric,4501,236,2,11,1019.378227,end Right turn into the parking lot,0,0,14,1,3,3,4,2,4,1,25,Female,תואר ראשון - שנה שניה,7,לא,לא,0,4,4,2,לא
+A1_216887,Allocentric,5444,280,2,11,1070.128345,end Right turn into the parking lot,1,0,23,3,1,3,3,2,1,1,23,Female,תואר ראשון - שנה שניה,5,לא,לא,0,5,4,5,"כן, בצבא הביאו לא מעט פעמים סימולטור נהיגה על מנת להמחיש תחושה של נהיגה בשכרות והסחות דעת. "
+A1_240591,Allocentric,5441,284,2,11,1020.70372,end Right turn into the parking lot,0,0,14,4,2,3,1,4,1,1,23,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,5,3,5,לא
+A1_420715,Allocentric,4868,311,1,5,1029.045089,end Right turn into the parking lot,2,0,19,7,5,8,5,2,2,1,22,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,1,5,לא
+A1_426185,Allocentric,3715.349794,304,2,6,982.1668342,start Left turn at an intersection,2,1,8,5,6,6,6,6,4,0,26,Female,אחר,7,לא,כן,1,3,4,4,לא
+A1_444584,Allocentric,5189,284,2,4,1029.132375,end Right turn into the parking lot,2,0,19,1,1,1,1,1,1,1,25,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,4,4,לא
+A1_492022,Allocentric,3875,333,2,10,1031.057318,end Right turn into the parking lot,2,0,8,1,3,6,3,1,1,1,24,Female,תואר ראשון - שנה שלישית,6,כן need for speed,לא,0,5,4,4,לא
+A1_504522,Allocentric,1418,82,2,7,413.1836005,start Overtaking a vehicle oncoming traffic,1,0,5,8,8,9,8,7,7,1,24,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,5,4,5,לא
+A1_522464,Allocentric,4059,560,2,10,1020.90567,end Right turn into the parking lot,2,0,7,5,5,7,4,3,2,1,25,Male,תואר ראשון - שנה שלישית,8,"כן, משחקים בסמארטפון.",לא,0,5,5,5,לא
+A1_534889,Allocentric,3246,316,2,8,1000.723568,end Right turn into the parking lot,1,0,8,1,1,3,3,2,1,1,23,Female,תואר ראשון - שנה ראשונה,6,לא,כן,פעם אחת,5,4,5,"כן, עובדת במעבדה"
+A1_540829,Allocentric,3553,278,2,10,1031.555622,end Right turn into the parking lot,2,0,16,6,7,4,7,3,5,1,25,Male,אחר,8,לא,לא,0,3,5,5,לא
+A1_552845,Allocentric,5789,298,2,5,1007.411377,end Right turn into the parking lot,2,0,7,7,4,5,7,1,1,1,25,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,4,4,4,לא
+A1_570234,Allocentric,5789,318,2,10,1031.555622,start Overtaking a vehicle oncoming traffic,0,0,16,8,9,9,9,9,2,0,23.9,Female,תואר שני,6,לא,לא,0,3,4,4,לא
+A1_570234,Allocentric,7735,338,2,10,1007.411377,end Right turn into the parking lot,0,0,16,8,9,9,9,9,2,0,23.9,Female,תואר שני,6,לא,לא,0,3,4,4,לא
+A2_013639,Allocentric,7735,401,1,10,1035.147284,end Right turn into the parking lot,0,0,5,5,6,6,3,3,3,1,22,Female,תואר ראשון - שנה שניה,4,לא,לא,0,4,3,4,לא
+A2_019654,Allocentric,6571,350,1,9,1039.849415,end Right turn into the parking lot,0,0,22,4,2,2,4,2,2,1,25,Female,תואר ראשון - שנה שניה,8,לא,כן,1,3,3,2,לא
+A2_025638,Allocentric,5832,305,1,14,1059.869597,end Right turn into the parking lot,0,0,20,7,6,7,7,6,2,1,27,Male,תואר ראשון - שנה שניה,11,כן,לא,0,5,5,5,לא
+A2_043089,Allocentric,6037,327,1,10,1046.560896,end Right turn into the parking lot,0,0,17,1,4,2,2,1,1,1,25,Male,תואר ראשון - שנה שלישית,4,כן זוהי שאלה כפולה ,לא,0,5,5,5,"כן, gta, need for speed , pubg"
+A2_049521,Allocentric,6572,339,1,10,1204.728904,end Right turn into the parking lot,0,0,32,3,3,3,5,2,4,1,23,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,5,4,5,לא
+A2_073793,Allocentric,4862,257,1,10,1043.83686,end Right turn into the parking lot,1,0,18,5,6,6,5,6,5,1,22,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,4,4,4,לא
+A2_085248,Allocentric,4449,233,1,10,1034.982098,end Right turn into the parking lot,0,0,15,4,5,5,5,2,2,1,23,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,3,3,לא
+A2_091442,Allocentric,5958,312,1,10,981.1392005,start Pedestrian crosses unexpectedly,1,0,19,7,3,4,3,3,7,1,24,Female,תואר ראשון - שנה שלישית,3,לא,לא,0,4,2,2,לא
+A2_097803,Allocentric,9240,485,1,9,1027.388113,end Right turn into the parking lot,0,0,9,1,1,5,1,2,3,1,26,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,5,4,4,לא
+A2_115947,Allocentric,4198,223,1,12,1026.372879,end Right turn into the parking lot,0,0,16,2,2,3,2,1,2,1,23,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,4,3,לא
+A2_127949,Allocentric,6727,353,1,10,1040.632974,end Right turn into the parking lot,0,0,20,8,6,7,3,2,4,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,5,5,לא
+A2_145188,Allocentric,6466,338,1,14,1043.024396,end Right turn into the parking lot,0,0,23,7,8,8,7,6,2,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,2,1,לא
+A2_193595,Allocentric,7062,370,1,10,1040.325924,end Right turn into the parking lot,0,0,17,4,4,3,4,4,3,1,24,Male,תואר ראשון - שנה שניה,8,"כן, nned for speed",לא,0,5,5,5,"כן, אור ירוק"
+A2_199755,Allocentric,7629,400,1,10,1031.986559,end Right turn into the parking lot,0,0,20,8,4,5,5,4,2,1,26,Female,תואר ראשון - שנה שלישית,8.5,לא,לא,0,5,4,4,לא
+A2_217269,Allocentric,4918,258,1,10,1040.034942,end Right turn into the parking lot,0,0,14,8,5,8,6,5,2,1,22,Female,תואר ראשון - שנה שניה,4.5,לא,כן,פעם אחת,5,4,4,לא
+A2_229691,Allocentric,6782,352,1,10,1015.501775,end Right turn into the parking lot,0,0,16,8,7,3,4,2,4,1,24,Female,תואר ראשון - שנה שניה,7,לא,לא,0,5,5,5,לא
+A2_289779,Allocentric,2002,104,1,7,320.1132486,end Left turn at an intersection with stop sign 2,1,0,3,3,3,4,3,2,8,1,27,Male,תואר ראשון - שנה רביעית,8,כן,כן,1,5,5,4,"לא, אין ניסיון קודם"
+A2_301987,Allocentric,5149,271,1,4,1020.638581,end Right turn into the parking lot,0,0,10,2,3,3,2,3,1,1,28,Male,תואר ראשון - שנה שלישית,11,לא,לא,0,3,3,5,לא
+A2_343672,Allocentric,7359,293,1,1,1031.509678,end Right turn into the parking lot,2,0,11,4,1,5,3,3,2,1,26,Male,תואר ראשון - שנה שלישית,8,לא,לא,0,4,3,3,לא
+A2_415418,Allocentric,967,163,1,5,265.6583454,start Left turn at an intersection with stop sign 2,1,0,3,5,5,4,7,7,7,1,25,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,5,3,5,לא
+A2_421089,Allocentric,3677,303,1,5,1031.818139,end Right turn into the parking lot,2,0,18,3,3,5,3,2,4,1,22,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,4,5,לא
+A2_427475,Allocentric,4686,226,1,5,1022.293892,end Right turn into the parking lot,2,0,10,4,6,6,7,3,2,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,4,2,4,לא
+A2_433399,Allocentric,4974,233,1,5,1025.894997,end Right turn into the parking lot,2,0,12,2,4,4,5,1,2,1,25,Female,תואר ראשון - שנה שלישית,0.3,לא,לא,0,4,3,3,כן עשיתי את הניסוי פעם אחת
+A2_439289,Allocentric,4770,247,1,2,965.2842709,start Left turn at an intersection,2,0,9,1,3,6,1,1,1,1,26,Male,תואר ראשון - שנה שלישית,9,לא,לא,0,5,4,4,לא
+A2_445135,Allocentric,4460,390,1,4,1028.146242,end Right turn into the parking lot,2,0,25,1,3,3,5,3,3,1,24,Female,תואר ראשון - שנה שלישית,3,לא,כן,1,5,3,3,לא
+A2_451533,Allocentric,6470,422,1,4,1015.804906,end Right turn into the parking lot,2,0,6,7,7,2,8,7,5,1,21,Female,תואר ראשון - שנה שלישית,3,לא,לא,0,3,4,5,לא
+A2_457491,Allocentric,5731,324,1,5,1029.146925,end Right turn into the parking lot,2,0,15,3,5,5,5,2,2,1,26,Male,תואר ראשון - שנה שלישית,8,כן שיחקתי בעבר עם הגה חיצוני,לא,0,5,4,5,לא
+A2_475184,Allocentric,6408,318,1,2,1030.949692,end Right turn into the parking lot,2,0,7,8,2,7,3,6,5,1,24,Male,תואר ראשון - שנה שלישית,7,לא,לא,0,5,4,4,לא 
+A2_481881,Allocentric,6470,365,1,5,1029.146925,end Right turn into the parking lot,0,0,0,6,4,5,3,5,6,1,22,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,4,2,3,לא
+A2_487336,Allocentric,5670,350,1,5,1029.159428,end Right turn into the parking lot,2,0,9,4,3,6,4,5,3,1,25,Male,תואר ראשון - שנה שלישית,7,כן,לא,0,4,4,5,לא
+A2_493174,Allocentric,6565,423,1,5,1020.829811,end Right turn into the parking lot,2,0,14,2,3,5,3,1,2,1,24,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,5,4,5,לא
+A2_499272,Allocentric,4809,321,1,5,618.8805989,start Overtaking a work zone oncoming traffic,1,0,9,7,5,6,6,4,6,1,46.5,Male,תואר שני,29,לא,לא,0,4,3,4,לא
+A2_505458,Allocentric,4506,298,1,2,1027.830065,end Right turn into the parking lot,2,0,13,5,5,6,7,4,4,1,23,Female,תואר ראשון - שנה שלישית,0,0,לא,0,5,3,4,לא
+A2_517744,Allocentric,4739,304,1,5,1026.884424,end Right turn into the parking lot,2,0,15,1,1,5,2,1,2,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,3,3,3,לא
+A2_523563,Allocentric,3758.963952,287,1,5,978.6112965,start Left turn at an intersection,2,1,6,7,4,6,5,2,3,1,23,Female,תואר ראשון - שנה שלישית,3,לא,לא,0,5,4,5,לא
+A2_535986,Allocentric,5897,441,1,5,1024.527347,end Right turn into the parking lot,1,0,10,4,4,4,5,4,4,1,25,Male,תואר ראשון - שנה שלישית,9,לא,לא,0,4,4,4,"לא משהו מיוחד, קורס נהיגה זהירה בתיכון לכמה דק'"
+A2_547464,Allocentric,2187,229,1,2,262.3367213,end Left turn at an intersection with stop sign 1,1,0,7,5,4,8,6,7,5,1,28,Male,תואר ראשון - שנה שלישית,7,לא,כן,1,5,3,4,לא
+A2_553949,Allocentric,4575,246,1,2,1026.834736,end Right turn into the parking lot,2,0,10,3,2,4,4,2,2,1,26,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,3,4,4,לא
+A2_559509,Allocentric,2520,273,1,4,404.4102182,start Overtaking a vehicle oncoming traffic,1,0,6,1,5,9,5,2,2,1,26,Male,תואר ראשון - שנה שלישית,8,מעט מאוד,לא,0,5,4,4,לא
+A2_571006,Allocentric,3264,218,1,5,1030.172024,end Right turn into the parking lot,2,0,11,6,1,8,8,4,6,1,26,Male,תואר ראשון - שנה שלישית,8,לא,כן,1,4,4,3,לא
+A3_014105,Allocentric,2355,140,2,10,299.5167212,end Left turn at an intersection with stop sign 2,1,0,5,5,5,5,3,7,9,1,23,Male,תואר ראשון - שנה שניה,7,לא,לא,0,5,3,5,לא
+A3_020351,Allocentric,5369,280,2,11,1040.899335,end Right turn into the parking lot,0,0,15,4,2,3,4,3,3,1,24,Male,תואר ראשון - שנה שניה,7,כן שיחקתי בNEEDFOR SPEED עם הגה,לא,0,5,4,4,לא
+A3_038839,Allocentric,2097,107,2,11,590.3749039,start Left turn on a curve 1,1,0,6,3,3,6,5,3,5,1,21,Female,תואר ראשון - שנה שניה,4,לא,כן,1,5,4,4,לא
+A3_044845,Allocentric,4851,266,2,11,1027.100992,end Right turn into the parking lot,0,0,12,3,1,4,1,1,8,1,26,Male,תואר ראשון - שנה שניה,9,קצת שיחקתי בneed for speed,לא,0,5,2,2,לא
+A3_068309,Allocentric,6385,329,2,11,1029.041323,end Right turn into the parking lot,0,0,19,3,5,5,5,4,3,1,25,Male,תואר ראשון - שנה שניה,7,לא,לא,0,4,3,4,לא
+A3_086296,Allocentric,4751,248,1,10,1021.547069,end Right turn into the parking lot,0,0,15,5,6,4,4,2,2,1,23,Female,תואר ראשון - שנה שלישית,4.5,לא,לא,0,5,4,4,לא
+A3_104844,Allocentric,5023,265,2,11,1046.75588,end Right turn into the parking lot,0,0,16,8,2,3,3,8,1,1,26,Male,תואר ראשון - שנה שניה,7,לא.,לא,0,4,4,5,כן. בצבא במספר קורסים מבצעיים
+A3_164896,Allocentric,2039,106,2,11,625.9298361,start Overtaking a work zone oncoming traffic,1,0,6,2,4,4,5,4,6,1,21,Female,תואר ראשון - שנה שניה,5,לא,לא,0,5,4,5,לא
+A3_194382,Allocentric,2541,131,2,11,593.9872848,start Left turn on a curve 1,1,0,7,7,8,6,5,3,9,1,24,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,5,4,5,לא
+A3_218734,Allocentric,1857,97,2,5,283.7759013,start Left turn at an intersection with stop sign 2,1,0,4,6,9,2,3,2,8,1,22,Female,תואר ראשון - שנה שניה,5,לא,לא,0,5,5,5,לא
+A3_224188,Allocentric,4356,229,2,11,1018.708367,end Right turn into the parking lot,0,0,16,3,1,4,2,2,2,1,25,Male,תואר ראשון - שנה שניה,9,כן... הייתי משחק הרבה כילד,לא,0,5,5,5,לא
+A3_230206,Allocentric,7242,377,2,11,1037.539366,end Right turn into the parking lot,0,0,20,9,1,6,9,1,1,1,26,Female,תואר ראשון - שנה שניה,4,לא,כן,1,5,3,4,לא
+A3_344095,Allocentric,4593,180,2,5,1026.958287,end Right turn into the parking lot,2,0,13,4,2,7,4,1,1,1,27,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,5,5,לא
+A3_410701,Allocentric,3456,233,2,8,1037.539366,end Right turn into the parking lot,1,0,23,5,5,3,5,4,3,1,30,Male,תואר ראשון - שנה שלישית,11,לא,לא,0,4,5,5,לא
+A3_416515,Allocentric,3765,178,2,6,1023.766521,end Right turn into the parking lot,2,0,9,2,2,3,3,2,1,1,24,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,5,3,5,לא
+A3_434046,Allocentric,4435,399,2,8,1029.582578,end Right turn into the parking lot,2,0,8,2,3,4,3,1,6,1,22,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,5,4,5,לא
+A3_446578,Allocentric,4793,253,2,6,1012.210499,end Right turn into the parking lot,2,0,14,1,1,4,1,1,1,1,26.5,Female,תואר ראשון - שנה שלישית,4.5,לא,לא,0,5,4,3,"כן, עברתי סימולטור נהיגה של טנקים בשריון"
+A3_458493,Allocentric,4782,305,2,9,1030.644592,end Right turn into the parking lot,2,0,5,2,2,3,2,3,1,1,27,Male,תואר ראשון - שנה שלישית,9,"כן,שיחקתי בעבר בתור ילד ",לא,0,2,4,4,לא
+A3_470164,Allocentric,2308,256,2,10,566.591667,end Overtaking a vehicle oncoming traffic,1,0,9,8,9,8,9,9,6,1,25,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,4,3,3,לא
+A3_482478,Allocentric,3011,247,2,10,1022.144569,end Right turn into the parking lot,2,0,13,1,1,5.5,3,1,5,1,26,Male,תואר ראשון - שנה שלישית,8,"כן, רק need for speed",לא,0,5,5,5,לא
+A3_494218,Allocentric,3410,214,2,9,1019.045485,end Right turn into the parking lot,2,0,13,7,6,7,7,2,1,1,22,Female,תואר ראשון - שנה שלישית,5,לא,כן,פעם אחת,4,2,4,לא
+A3_518012,Allocentric,2888,549,2,10,1017.160814,end Right turn into the parking lot,2,0,9,1,1,4,1,1,2,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,5,4,5,לא
+A3_536753,Allocentric,2888,184,2,10,566.591667,end Right turn into the parking lot,1,1,10,1,1,5,2,1,1,1,25,Male,תואר ראשון - שנה שלישית,8,לא,לא,0,5,5,5,לא
+A3_542549,Allocentric,3447.622628,190,2,5,977.2883816,start Left turn at an intersection,2,1,4,7,5,5,4,2,4,1,27,Female,תואר ראשון - שנה שלישית,10,אין ניסיון,לא,0,4,5,5,אין ניסיון
+A3_548324,Allocentric,3123,196,2,6,1014.910891,end Right turn into the parking lot,2,0,12,2,2,3,3,2,1,1,27,Male,תואר ראשון - שנה שלישית,13,לא,לא,0,4,2,2,לא
+A3_554325,Allocentric,3620,202,2,10,1029.180026,start Right turn into the parking lot,2,0,9,3,7,9,6,3,6,1,29,Male,תואר ראשון - שנה שלישית,12,לא,כן,פעמיים,4,4,4,לא
+A3_560344,Allocentric,3236,164,2,6,1014.882304,end Right turn into the parking lot,2,0,17,5,5,8,5,1,2,1,24,Male,תואר ראשון - שנה שלישית,6,כן,לא,0,4,4,4,לא
+A3_566316,Allocentric,6440,324,2,6,1033.248598,end Right turn into the parking lot,2,0,18,5,2,5,3,4,1,1,24,Female,תואר ראשון - שנה שלישית,5,Gta,לא,0,5,4,5,לא
+A4_027735,Allocentric,4658,243,1,10,1033.371316,end Right turn into the parking lot,0,0,16,2,1,2,2,2,2,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,לא,5,5,5,לא
+A4_033712,Allocentric,4178,217,1,10,790.1869926,start Left turn on a curve 2,1,0,13,6,8,7,6,5,4,1,23,Female,תואר ראשון - שנה שניה,4,לא,לא,0,4,5,4,לא
+A4_039463,Allocentric,4325,229,1,10,1025.404416,end Right turn into the parking lot,0,0,16,5,2,3,1,2,1,1,26,Male,תואר ראשון - שנה שניה,9,כן שחקתי מעט ,לא,0,5,1,5,לא
+A4_051534,Allocentric,4762,270,1,10,1045.156587,end Right turn into the parking lot,0,0,16,2,1,4,3,1,2,1,26,Male,תואר ראשון - שנה שלישית,9,כן,לא,0,5,4,5,לא
+A4_117169,Allocentric,6384,339,1,10,1045.800378,end Right turn into the parking lot,0,0,13,3,2,4,3,3,3,1,25,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,5,4,5,לא
+A4_135892,Allocentric,4571,239,1,10,1030.526001,end Right turn into the parking lot,0,0,17,2,2,2,3,3,5,1,22,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,4,4,לא
+A4_147396,Allocentric,3978,208,1,10,972.5201433,start Pedestrian crosses unexpectedly,1,0,10,4,5,7,4,4,6,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,0,5,5,4,לא
+A4_165217,Allocentric,4914,260,1,10,1020.789021,end Right turn into the parking lot,0,0,18,4,4,5,5,2,1,1,23,Female,תואר ראשון - שנה שניה,5,לא,כן,1,4,5,5,לא
+A4_195584,Allocentric,5046,265,1,10,1044.795833,end Right turn into the parking lot,0,0,18,5,3,6,7,6,4,1,26,Female,תואר ראשון - שנה שלישית,9,לא,לא,0,4,5,4,לא
+A4_201373,Allocentric,5508,296,1,8,1018.093851,end Right turn into the parking lot,0,0,17,9,8,8,6,3,2,1,26,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,5,4,4,לא
+A4_219144,Allocentric,5956,313,1,10,1031.293614,end Right turn into the parking lot,0,0,9,7,5,7,5,5,2,1,22,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,2,3,לא
+A4_249447,Allocentric,4801,253,1,10,1035.387709,end Right turn into the parking lot,0,0,16,4,4,5,3,4,1,1,24,Male,תואר ראשון - שנה שניה,7,כן ,לא,0,4,5,5,כן בתור ילד
+A4_273984,Allocentric,1761.19858,193,1,10,199.0970496,start Left turn at an intersection with stop sign 1,2,1,5,3,4,3,4,2,3,1,27,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,5,3,2,לא
+A4_291029,Allocentric,5577,298,1,4,1029.204932,end Right turn into the parking lot,0,0,9,6,7,4,5,4,3,1,32,Male,תואר ראשון - שנה רביעית,14,לא,לא,0,4,4,5,לא
+A4_297721,Allocentric,5963,316,1,8,1038.363464,end Right turn into the parking lot,0,0,18,7,2,7,5,6,2,1,26,Male,תואר ראשון - שנה שניה,8,כן כל מיני משחקים אבל אני לא גיימר,כן,פעם אחת,3,4,5,לא
+A4_417403,Allocentric,4022,215,1,5,1045.370141,end Right turn into the parking lot,2,0,16,6,5,8,7,6,8,1,24,Female,תואר ראשון - שנה שלישית,1,לא,כן,פעם אחת,5,4,4,לא
+A4_423441,Allocentric,2390,176,1,3,182.5549345,start Left turn at an intersection with stop sign 1,1,0,2,5,4,7,3,1,3,1,24,Female,תואר ראשון - שנה שלישית,7,לא,כן,2,5,4,4,לא
+A4_429106,Allocentric,4790,316,1,5,1021.595836,end Right turn into the parking lot,2,0,7,5,5,4,6,6,1,1,26,Male,תואר ראשון - שנה שלישית,9,כן,לא,0,5,5,5,לא
+A4_435773,Allocentric,3516,339,1,4,995.0247613,end Pedestrian crosses unexpectedly,1,0,15,4,5,8,7,6,1,0,27,Female,תואר ראשון - שנה שלישית,10,לא,לא,0,5,4,4,לא
+A4_441845,Allocentric,3802,192,1,4,1117.171122,start Right turn into the parking lot,2,0,11,1,1,6,2,1,1,1,22,Female,תואר ראשון - שנה שלישית,4,כן,לא,0,4,5,5,לא
+A4_447587,Allocentric,4207,278,1,5,1034.958609,end Right turn into the parking lot,2,0,16,8,8,9,9,8,3,1,21,Male,תואר ראשון - שנה שלישית,3,כן F1 PlayStation,לא,0,4,3,4,לא
+A4_453693,Allocentric,5691,920,1,5,1029.941951,end Right turn into the parking lot,2,0,13,3,2,2,1,1,1,1,25,Male,תואר ראשון - שנה שלישית,7,לא,לא,0,5,3,5,לא
+A4_459639,Allocentric,3970,221,1,3,1050.195306,start Right turn into the parking lot,2,0,14,3,4,6,5,3,4,1,27,Female,תואר ראשון - שנה שלישית,10,לא,לא,0,5,4,3,כן סימולטור שמדמה התהפכות ברכב 
+A4_471005,Allocentric,3855,277,1,5,1013.921259,end Right turn into the parking lot,2,0,13,3,3,2,5,3,3,1,26,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,4,4,4,לא
+A4_477176,Allocentric,4259,313,1,5,1040.450452,end Right turn into the parking lot,2,0,23,3,1,1,3,1,3,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,3,4,4,לא
+A4_483642,Allocentric,3409,257,1,4,1023.373554,end Right turn into the parking lot,2,0,11,7,7,8,7,6,4,0,27,Male,תואר ראשון - שנה שלישית,5,כן שיחקתי בXBOX,לא,0,4,4,3,לא
+A4_489948,Allocentric,4905,322,1,4,1034.992936,end Right turn into the parking lot,2,0,9,2,1,5,1,4,4,1,26,Male,תואר ראשון - שנה שלישית,9,רק בשנות החטיבה/תחילת תיכון,לא,0,5,1,5,ביצעתי סימולטור של איזושהי עמותה בתיכון
+A4_495396,Allocentric,6121,533,1,5,1074.230494,end Right turn into the parking lot,2,0,12,4,1,6,3,4,7,1,25,Female,תואר ראשון - שנה שלישית,9,לא,לא,0,4,1,3,לא
+A4_501374,Allocentric,4464,852,1,5,1036.659738,end Right turn into the parking lot,2,0,6,2,2,3.5,2,2,5,1,27,Female,תואר ראשון - שנה שלישית,10,לא,כן,1,3,4,5,לא
+A4_519662,Allocentric,5345,314,1,5,1033.624111,end Right turn into the parking lot,2,0,20,1,1,9,3,2,1,1,27,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,3,4,3,לא
+A4_537853,Allocentric,6519,438,1,5,1017.600034,end Right turn into the parking lot,2,0,18,4,2,2,2,1,2,1,23,Female,תואר ראשון - שנה שלישית,5.5,לא,לא,0,5,4,5,לא
+A4_543712,Allocentric,890.8702595,120.6666667,1,5,198.5359085,start Left turn at an intersection with stop sign 1,2,1,2,1,2,3,1,1,7,1,24,Female,אחר,7,כן,לא,0,4,4,5,לא
+A4_549138,Allocentric,6063,328,1,4,1013.82916,end Right turn into the parking lot,2,0,25,2,1,3,1,1,1,1,22,Female,תואר ראשון - שנה שלישית,0,לא,לא,0,4,3,2,לא
+A4_561822,Allocentric,2105,259,1,5,985.6268159,start Pedestrian crosses unexpectedly,1,0,5,4,6,8,7,5,3,1,24,Male,תואר ראשון - שנה שלישית,7,GTA,לא,0,5,5,4,לא
+A4_567601,Allocentric,4486,285,1,4,1029.797373,end Right turn into the parking lot,2,0,23,6,5,7,4,5,4,1,26,Male,תואר ראשון - שנה שלישית,7,מעט כילד,לא,0,4,4,5,לא
+A5_028816,Allocentric,1857,97,2,11,283.7759013,start Left turn at an intersection with stop sign 2,1,0,4,6,2,7,1,3,6,1,24,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,3,4,לא
+A5_028816,Allocentric,1857,97,2,11,283.7759013,start Left turn at an intersection with stop sign 2,1,0,4,6,2,5,3,1,3,1,24,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,3,4,לא
+A5_034293,Allocentric,3461,178,2,10,679.8060292,Overtaking a work zone oncoming traffic,1,0,7,7,6,6,5,3,4,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,2,4,לא
+A5_040547,Allocentric,4943,258,2,11,1025.519668,end Right turn into the parking lot,0,0,19,6,2,5,2,2,2,1,21,Female,תואר ראשון - שנה שניה,3,לא,לא,0,5,5,5,לא
+A5_058685,Allocentric,4715,254,2,11,1039.353497,end Right turn into the parking lot,0,0,15,5,4,4,6,5,2,1,26,Male,תואר ראשון - שנה שלישית,8,כן,לא,0,5,5,5,לא
+A5_082323,Allocentric,5372,319,2,11,1026.550786,end Right turn into the parking lot,0,0,10,4,3,3,3,2,2,1,24,Male,תואר ראשון - שנה שניה,7,"כן, מעט משחקים כמו f1 בטלפון (בודדים במהלך השנים)",לא,0,5,4,5,לא
+A5_094593,Allocentric,6644,350,2,11,1058.829539,end Right turn into the parking lot,0,0,17,3,5,6,6,3,2,1,27,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,4,3,4,לא
+A5_124543,Allocentric,4492,265,2,11,1034.935096,end Right turn into the parking lot,0,0,18,3,2,3,3,3,2,1,23,Male,תואר ראשון - שנה שניה,4,לא,לא,0,3,3,4,לא
+A5_148012,Allocentric,4699,248,2,11,1045.610922,end Right turn into the parking lot,1,0,11,6,7,6,6,5,2,1,22,Female,תואר ראשון - שנה שניה,5,לא,לא,0,4,4,5,לא
+A5_196078,Allocentric,4834,257,2,11,1035.384493,end Right turn into the parking lot,0,0,13,8,2,9,3,4,4,1,23,Female,תואר ראשון - שנה שניה,6,לא,לא,0,4,3,2,לא
+A5_226318,Allocentric,4890,255,2,11,1034.008845,end Right turn into the parking lot,0,0,12,2,3,5,5,1,1,1,26,Male,תואר ראשון - שנה שניה,9,לא,לא,0,5,4,5,לא
+A5_250675,Allocentric,5340,276,2,11,1034.085708,end Right turn into the parking lot,0,0,15,3,2,7,4,3,2,1,22,Female,תואר ראשון - שנה שניה,5,לא,לא,0,5,3,4,לא
+A5_418223,Allocentric,3138,202,2,10,968.0265464,start Left turn at an intersection,2,0,7,5,5,7,6,5,3,1,26,Male,תואר ראשון - שנה שלישית,8,"כן , שיחקתי קצת בילדות ",לא,0,3,4,4,לא
+A5_424553,Allocentric,6768,382,1,5,1026.452968,end Right turn into the parking lot,2,0,19,5,5,6,5,5,4,1,27,Male,תואר ראשון - שנה שלישית,3,קצת ממש,לא,0,3,3,3,לא
+A5_436811,Allocentric,5578,333,2,6,1021.031564,end Right turn into the parking lot,2,0,18,6,6,6,6,5,6,1,25,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,5,4,5,לא
+A5_448859,Allocentric,3819,240,2,10,1031.012247,end Right turn into the parking lot,2,0,11,1,1,4,2,1,1,1,27,Male,תואר ראשון - שנה שלישית,9,מעט,לא,0,5,5,5,לא
+A5_454928,Allocentric,3215,223,2,10,1015.658512,end Right turn into the parking lot,2,0,12,2,2,2,2,1,2,1,25,Male,תואר ראשון - שנה שלישית,9,8,לא,0,3,4,5,לא
+A5_460351,Allocentric,3300,214,2,9,664.7036194,start Overtaking a work zone oncoming traffic,1,0,7,6,5,5,6,6,6,1,24,Male,תואר ראשון - שנה שלישית,6,"מעט נסיון, שיחקתי בעבר כמה פעמים",לא,0,5,4,5,לא
+A5_466264,Allocentric,3300,199.6666667,2,4,1031.012247,start Overtaking a work zone oncoming traffic,0,1,7,8,7,7,7,7,7,1,25,Male,תואר ראשון - שנה שלישית,9,"כן, need for speed ו gta בעבר הרחוק",לא,0,4,4,4,לא
+A5_472378,Allocentric,3413,221,2,10,1022.408527,end Right turn into the parking lot,2,0,8,4,5,7,5,2,2,1,25,Male,תואר ראשון - שנה שלישית,9,אין,לא,0,4,4,4,אין
+A5_502459,Allocentric,3062,206,2,4,1002.57289,end Right turn into the parking lot,2,0,6,1,1,3,8,1,8,1,26,Male,אחר,2.5,כן,לא,0,5,5,5,לא
+A5_508352,Allocentric,2252,226,2,9,627.3200349,start Left turn on a curve 1,2,0,4,3,3,2,5,5,6,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,5,4,4,לא
+A5_520891,Allocentric,3532,220,1,9,1029.230664,end Right turn into the parking lot,2,0,11,1,1,2,1,1,2,1,21,Male,תואר ראשון - שנה שלישית,9,כן יש ניסיון במספר רחב של משחקי מירוצים למינהם כולל סימולציות,לא,0,4,4,4,"ניסיון ביתי,תחרויות מירוצים"
+A5_526205,Allocentric,2647,179,2,9,660.9445685,Car overtaking a work zone,1,0,6,2,3,1,4,2,7,1,25,Female,תואר ראשון - שנה שלישית,7.5,לא,לא,0,5,4,4,לא
+A5_544924,Allocentric,3035,377,2,7,1048.40198,end Right turn into the parking lot,2,0,9,4,8,7,7,3,4,1,27,Male,תואר ראשון - שנה שלישית,10,מעט,לא,0,5,4,5,לא
+A5_550211,Allocentric,3287,178,2,10,1022.859224,end Right turn into the parking lot,2,0,12,2,4,4,4,2,1,1,26,Male,תואר ראשון - שנה רביעית,8,"כן, יש כמה משחקים במחשב",לא,0,5,5,5,לא
+A5_556065,Allocentric,3105,164,2,6,1007.912482,end Right turn into the parking lot,2,0,11,5,3,5,3,4,2,1,23,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,5,3,4,לא
+A5_562825,Allocentric,3651,218,2,7,1024.757737,end Right turn into the parking lot,2,0,12,1,5,3,5,1,3,1,28,Male,תואר ראשון - שנה שלישית,6,"כן, בתור ילד שיחקתי",כן,1,5,3,5,לא
+A5_568242,Allocentric,3967,253,2,7,1016.558952,end Right turn into the parking lot,2,0,7,2,2,6,4,2,2,1,25,Male,תואר ראשון - שנה שלישית,8,לא,לא,0,4,4,4,לא
+A6_017176,Allocentric,756,40,1,10,146.3213243,start Right turn ,1,0,3,8,9,9,8,6,8,1,27,Male,תואר ראשון - שנה שניה,0,ממש קצת,לא,0,4,3,4,לא
+A6_029922,Allocentric,6666,350,1,10,1047.860874,end Right turn into the parking lot,0,0,16,5,2,6,3,4,2,1,26,Male,תואר ראשון - שנה שניה,2,"כן, need for speed",לא,0,3,4,5,לא
+A6_047523,Allocentric,8687,457,1,10,1200.86362,start Right turn into the parking lot,0,0,12,6,6,5,4,4,2,1,28,Male,תואר ראשון - שנה שניה,2,"לא, אין ניסיון",לא,0,4,5,4,לא
+A6_053069,Allocentric,4350,238,1,10,1047.540901,end Right turn into the parking lot,0,0,16,5,2,3,3,2,2,1,23,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,4,4,לא
+A6_089606,Allocentric,7036,364,1,10,1017.652857,end Right turn into the parking lot,0,0,18,5,3,7,2,3,6,1,25,Female,תואר ראשון - שנה שניה,6,לא,לא,0,5,5,4,לא
+A6_095185,Allocentric,6181,326,1,10,1054.460526,end Right turn into the parking lot,0,0,20,9,9,5,9,8,3,0,26,Female,תואר ראשון - שנה שניה,9,לא,לא,0,4,3,3,לא
+A6_101293,Allocentric,6143.843342,288,1,10,991.4315476,start Left turn at an intersection,2,1,25,8,3,5,2,3,5,1,19,Female,תואר ראשון - שנה שניה,2,אין ניסיון,לא,0,5,5,5,לא
+A6_116784,Allocentric,6089,319,1,14,1039.962044,end Right turn into the parking lot,0,0,21,4,3,3,4,1,2,1,27,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,5,4,5,לא
+A6_137087,Allocentric,6163,321,1,14,1024.155536,end Right turn into the parking lot,0,0,11,7,4,7,3,4,1,1,26,Male,תואר ראשון - שנה שניה,8,לא,לא,0,4,4,4,לא
+A6_161916,Allocentric,5571,292,1,10,1031.345744,end Right turn into the parking lot,0,0,13,4,2,5,3,1,2,1,24,Female,תואר ראשון - שנה שניה,7,לא,כן,1,5,4,4,לא
+A6_221794,Allocentric,6715,352,1,10,1031.20977,end Right turn into the parking lot,0,0,15,3,3,4,3,2,3,1,26,Male,תואר ראשון - שנה שניה,8,לא,כן,1,3,3,4,לא
+A6_245593,Allocentric,2816,144,1,10,745.7110777,end Overtaking a work zone oncoming traffic,1,0,10,2,3,9,9,2,4,1,24,Female,תואר ראשון - שנה שניה,6,לא,לא,0,5,4,5,לא
+A6_293105,Allocentric,5588,295,1,4,1034.873618,end Right turn into the parking lot,0,0,9,2,3,4,1,1,1,1,28,Male,תואר ראשון - שנה שלישית,3,"כן, הרבה",לא,0,5,4,5,משחקי מחשב
+A6_299929,Allocentric,8384,447,1,4,1025.736678,end Right turn into the parking lot,0,0,7,5,3,3,4,4,2,1,24,Female,תואר ראשון - שנה שלישית,3,לא,לא,0,4,4,4,"כן, נהיגה ברכב הניסוי"
+A6_407463,Allocentric,4200,230,1,2,1027.935144,end Right turn into the parking lot,2,0,16,4,4,5,5,6,2,0,27,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,3,4,4,לא
+A6_419212,Allocentric,3787,303,1,5,1029.567484,end Right turn into the parking lot,2,0,26,2,7,5,7,2,2,1,23,Male,תואר ראשון - שנה שלישית,5,לא,לא,0,4,4,4,לא
+A6_425985,Allocentric,4904,328,1,5,1013.356063,end Right turn into the parking lot,2,0,14,2,2,4,2,3,2,0,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,4,4,4,לא
+A6_431808,Allocentric,5729,407,1,5,1018.579115,end Right turn into the parking lot,2,0,18,2,2,5,5,3,3,1,26,Male,תואר ראשון - שנה שלישית,8,"מעט, בתור ילד שיחקתי",לא,0,5,4,5,לא
+A6_437198,Allocentric,5352,260,1,6,999.5009299,start Right turn into the parking lot,2,0,13,7,2,5,5,7,4,1,24,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,5,5,לא
+A6_443463,Allocentric,3830.66928,353,1,5,988.3486022,start Left turn at an intersection,2,1,7,6,4,5,3,5,3,1,27,Male,תואר ראשון - שנה שלישית,9,"כן, התניסיתי במשחקים האלה בעבר.",לא,0,5,5,5,סימולטור נהיגה וטיסה - לא ניסיון מקצועי (משחקים).
+A6_455249,Allocentric,3598,317,1,5,1027.843208,end Right turn into the parking lot,2,0,13,7,7,7,6,6,4,1,26,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,5,3,4,לא
+A6_461884,Allocentric,4092,281,1,5,1010.005963,end Right turn into the parking lot,2,0,16,2,5,7,7,3,2,1,22,Female,תואר ראשון - שנה שלישית,5,לא,כן,פעם אחת,4,4,4,לא
+A6_467382,Allocentric,5935,366,1,5,1028.666996,end Right turn into the parking lot,2,0,16,5,5,4,6,6,2,1,26,Male,תואר ראשון - שנה שלישית,4,"כן. משחקי נהיגה המדמים נהיגה בכביש, בעיקר במהירויות גבוהות",לא,0,5,4,3,לא
+A6_473257,Allocentric,5935,451,1,5,1010.005963,end Right turn into the parking lot,2,0,12,3,2,7,3,4,4,1,23,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,4,2,4,לא
+A6_491301,Allocentric,4953,311,1,5,1020.522763,end Right turn into the parking lot,2,0,16,5,3,7,7,4,2,1,26,Male,תואר ראשון - שנה שלישית,6,ללא ניסיון,לא,0,4,4,4,לא
+A6_497227,Allocentric,3606,314,1,5,869.0234564,end Left turn on a curve 2,2,0,11,8,9,7,9,3,5,1,24,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,4,4,3,לא
+A6_503102,Allocentric,3690,261,1,5,1034.898948,end Right turn into the parking lot,2,0,16,5,6,2,9,9,3,1,26,Male,אחר,8,כן ,לא,0,4,5,5,לא 
+A6_509144,Allocentric,3530,243,1,5,1022.292143,end Right turn into the parking lot,2,0,10,3,1,6,2,2,2,1,28,Male,אחר,11,לא,לא,0,4,4,4,לא
+A6_515797,Allocentric,3150,256,1,5,1022.867959,end Right turn into the parking lot,2,0,16,3,2,8,6,3,2,1,28,Male,תואר ראשון - שנה שלישית,13,לא,כן,1,5,5,5,לא
+A6_527404,Allocentric,5571,458,1,5,1015.756914,end Right turn into the parking lot,2,0,18,4,6,5,6,7,3,1,25,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,4,3,4,לא
+A6_533716,Allocentric,4132,469,1,5,1032.390101,end Right turn into the parking lot,2,0,15,3,5,6,4,4,6,0,25,Female,תואר ראשון - שנה שלישית,2.5,לא,לא,0,3,3,4,לא
+A6_539559,Allocentric,4671,331,1,5,1039.681343,end Right turn into the parking lot,2,0,13,4,4,8,7,6,3,1,26,Male,תואר ראשון - שנה שלישית,9,לא,לא,0,3,3,4,לא
+A6_545588,Allocentric,4671,292.3333333,1,5,1032.390101,end Right turn into the parking lot,1,0,7,2,3,6,3,3,5,1,20,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,5,5,3,לא
+A6_557781,Allocentric,954,156,1,5,255.3682456,end Left turn at an intersection with stop sign 1,1,0,4,1,6,9,5,1,9,1,24,Female,תואר ראשון - שנה שלישית,5,לא,לא,0,5,5,5,לא
+A6_563247,Allocentric,7792,440,1,4,1033.714117,end Right turn into the parking lot,2,0,28,5,5,6,5,5,3,1,28,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,4,2,2,לא
+A6_569604,Allocentric,5580,315,1,4,1026.79967,end Right turn into the parking lot,2,0,20,1,1,4,2,1,2,1,27,Male,תואר ראשון - שנה שלישית,8,"כן , שחקתי כל ילדותי ",לא,0,4,4,4,לא
+A1_378394,Allocentric,6075,829,1,11,1050.195306,start Overtaking a work zone oncoming traffic,0,1,14,6,9,5,1,6,7,1,24,Male,תואר ראשון - שנה שלישית,6,לא,לא,0,5,5,5,לא
+A1_390487,Allocentric,795,665,2,15,1013.921259,end Right turn into the parking lot,0,1,12,9,7,9,6,2,7,1,28,Male,תואר ראשון - שנה רביעית,11,"כן, ניד פור ספיד גיטיאיי.. עוד משחקי מחשב מפעם",לא,0,4,4,3,לא
+A1_408149,Allocentric,1482,416,2,3,1040.450452,end Right turn into the parking lot,2,1,28,4,4,3,4,3,6,1,26,Male,תואר ראשון - שנה רביעית,4,לא,לא,0,5,3,2,לא
+A1_438407,Allocentric,4361,499,2,11,1023.373554,start Left turn on a curve 1,1,0,7,9,1,7,7,8,5,1,25,Male,תואר ראשון - שנה שלישית,8,ניסיון קל,לא,0,5,4,5,לא
+A1_450286,Allocentric,7982,279,1,9,1034.992936,end Right turn into the parking lot,1,0,20,5,4,1,3,4,3,1,27,Male,תואר ראשון - שנה שלישית,10,לא,כן,1,5,4,4,לא
+A1_462184,Allocentric,2438,135,2,13,1074.230494,Car overtaking a work zone,2,0,14,4,6,4,5,9,4,1,23,Female,תואר ראשון - שנה שלישית,5.5,לא,לא,0,5,4,5,לא
+A1_474856,Allocentric,6228,165,2,12,1036.659738,end Right turn into the parking lot,2,0,2,5,1,1,6,7,6,1,25,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,5,3,5,לא
+A1_546053,Allocentric,1970,198,2,6,1033.624111,end Right turn into the parking lot,0,0,20,7,1,8,1,4,5,1,28,Male,תואר ראשון - שנה שלישית,10,לא,לא,0,5,5,5,לא
+A1_564382,Allocentric,1305,711,2,5,1017.600034,end Right turn into the parking lot,2,0,1,1,9,9,5,1,3,1,30,Male,תואר ראשון - שנה חמישית,6,כן,לא,0,4,3,4,לא
+A2_385457,Allocentric,1143,595,2,1,198.5359085,end Right turn into the parking lot,1,0,10,4,6,2,9,6,4,1,24,Female,תואר ראשון - שנה שלישית,0,לא,לא,0,5,4,5,לא
+A2_391616,Allocentric,6112,271,2,4,1013.82916,end Right turn into the parking lot,0,0,12,7,9,1,6,3,5,1,30,Male,תואר ראשון - שנה רביעית,10,כן,לא,0,4,4,4,לא
+A2_469948,Allocentric,9128,499,1,12,985.6268159,start Right turn ,0,0,1,6,7,7,9,6,8,1,28,Male,תואר ראשון - שנה שלישית,11,לא,כן,1,5,5,4,לא
+A3_380648,Allocentric,4752,167,1,4,1029.797373,end Right turn into the parking lot,0,0,21,9,5,5,5,7,7,1,27,Female,תואר ראשון - שנה שלישית,9,לא,כן,1,3,2,2,כן
+A3_404155,Allocentric,8968,331,1,7,283.7759013,start Right turn into the parking lot,0,0,14,8,9,8,8,8,1,0,25,Female,תואר ראשון - שנה שלישית,11,לא,לא,0,4,2,3,כן
+A3_422985,Allocentric,2751,797,1,2,283.7759013,end Right turn into the parking lot,0,0,15,9,7,7,4,5,5,1,24,Female,תואר ראשון - שנה שלישית,7,לא,כן,2,4,3,3,לא
+A3_440267,Allocentric,4714,850,1,15,679.8060292,end Right turn into the parking lot,1,0,19,5,4,1,4,1,4,1,26,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,4,4,5,לא
+A3_452821,Allocentric,1146,220,1,10,1025.519668,end Right turn into the parking lot,0,0,26,5,2,7,9,5,1,1,24,Male,תואר ראשון - שנה שלישית,0,לא,לא,0,5,4,4,לא
+A3_476635,Allocentric,6112,363,1,6,1039.353497,start Left turn at an intersection,2,0,2,4,7,8,9,5,1,1,23,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,4,3,3,לא
+A3_506193,Allocentric,6278,309,1,2,1026.550786,end Right turn into the parking lot,2,0,0,1,8,1,1,4,6,1,25,Male,תואר ראשון - שנה שלישית,8,לא,לא,0,4,3,3,לא
+A3_524319,Allocentric,3979,419,1,1,1058.829539,end Right turn into the parking lot,1,0,21,4,7,1,8,8,4,1,25,Male,תואר ראשון - שנה שלישית,7,לא,כן,1,4,4,4,לא
+A3_530744,Allocentric,1228,576,1,10,1034.935096,end Right turn into the parking lot,2,0,9,9,4,7,2,6,9,1,31,Male,תואר ראשון - שנה רביעית,14,כן,לא,0,4,5,5,כן
+A4_375725,Allocentric,6216,664,1,6,1045.610922,end Right turn into the parking lot,0,0,10,5,8,9,3,5,3,1,28,Male,תואר ראשון - שנה רביעית,10,לא,לא,0,4,3,3,לא
+A4_387428,Allocentric,7870,426,1,14,1035.384493,end Overtaking a work zone oncoming traffic,0,0,4,1,7,4,9,2,7,1,29,Male,תואר ראשון - שנה שלישית,12,לא,לא,0,5,5,5,לא
+A4_399514,Allocentric,1776,258,1,13,1034.008845,end Right turn into the parking lot,0,0,24,1,4,3,8,6,7,1,26,Male,תואר ראשון - שנה רביעית,6,לא,לא,0,4,3,3,לא
+A4_405822,Allocentric,7001,883,1,10,1034.085708,end Right turn into the parking lot,0,0,17,3,5,3,1,7,5,1,23,Female,תואר ראשון - שנה שלישית,4,לא,לא,0,5,4,3,לא
+A4_525126,Allocentric,4683,400,1,8,968.0265464,end Right turn into the parking lot,0,0,27,7,3,8,9,8,3,1,25,Female,תואר ראשון - שנה שלישית,7,לא,לא,0,5,4,4,לא
+A5_376764,Allocentric,3932,707,2,4,1026.452968,end Right turn into the parking lot,0,0,25,2,4,5,2,5,2,1,24,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,5,4,4,לא
+A5_406738,Allocentric,5081,544,2,12,1021.031564,end Right turn into the parking lot,0,0,22,1,8,8,4,4,3,1,29,Male,תואר ראשון - שנה שלישית,12,לא,לא,0,4,5,5,לא
+A5_430494,Allocentric,5555,516,2,15,1031.012247,end Right turn into the parking lot,0,0,2,4,1,2,5,9,6,1,20,Female,תואר ראשון - שנה שלישית,2.5,לא,לא,0,5,5,5,לא
+A5_496125,Allocentric,6654,217,2,11,1015.658512,start Right turn into the parking lot,2,0,17,8,8,1,1,5,1,1,25,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,4,4,4,לא
+A5_532063,Allocentric,8053,179,1,12,664.7036194,start Left turn at an intersection,0,0,4,1,3,7,4,3,5,1,25,Female,תואר ראשון - שנה שלישית,8,לא,לא,0,4,4,4,לא
+A5_538959,Allocentric,2982,742,2,6,1031.012247,end Right turn into the parking lot,2,0,2,5,7,5,9,6,3,1,26,Male,תואר ראשון - שנה שלישית,6,לא,כן,1,4,5,5,לא
+A6_479029,Allocentric,4825,886,1,4,1022.408527,end Right turn into the parking lot,0,0,21,3,4,4,6,7,9,1,25,Female,תואר ראשון - שנה שלישית,6,לא,לא,0,5,5,5,לא
+A6_521311,Allocentric,3049,424,2,1,1002.57289,end Right turn into the parking lot,0,0,10,5,9,9,2,8,1,1,26,Male,תואר ראשון - שנה שלישית,8,כן,לא,0,3,3,4,כן
