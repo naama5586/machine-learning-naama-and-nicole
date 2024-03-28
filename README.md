@@ -11,8 +11,8 @@ We aim to determine if there are drivers less suitable to be remote drivers in t
 To install and run this project, follow these steps:
 
 1. Download the necessary data files from the repository:
-   - [Spatial_after_droping_missing_values3.csv](link_to_csv_file)
-   - [participation_data.csv]([link_to_csv_file](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/participation_data.csv))
+   - [Spatial_after_droping_missing_values3.csv](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/Spatial_after_droping_missing_values3.csv)
+   - [participation_data.csv](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/participation_data.csv)
 
 2. Ensure you have the required libraries installed. You can install them using pip:
 
