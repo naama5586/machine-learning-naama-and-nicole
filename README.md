@@ -8,7 +8,11 @@ We aim to determine if there are drivers less suitable to be remote drivers in t
 
 ## Installation
 
-To install and run this project, follow these steps:
+[The name of the main code we used](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/final%20project%20nicole%26naama.ipynb)
+[Mining code and analysis of the data from the laboratory drive](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/data%20from%20drive.py)
+[Extreme missing values code](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/drop%20columns.ipynb)
+
+To install and run the main code, follow these steps:
 
 1. Download the necessary data files from the repository:
    - [Spatial_after_droping_missing_values3.csv](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/Spatial_after_droping_missing_values3.csv)
