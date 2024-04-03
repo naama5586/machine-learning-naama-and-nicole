@@ -18,6 +18,8 @@ To install and run the main code, follow these steps:
    - [Spatial_after_droping_missing_values3.csv](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/Spatial_after_droping_missing_values3.csv)
    - [participation_data.csv](https://github.com/naama5586/machine-learning-naama-and-nicole/blob/main/participation_data.csv)
 
+! After we uploaded the data files, we talked to Chen and he said that it is problematic to upload the lab data to a public place like GitHub because there is confidentiality on the data, so we downloaded it from GitHub but left the instructions so you can see how it was supposed to be
+
 2. Ensure you have the required libraries installed. You can install them using pip:
 
 ```bash
